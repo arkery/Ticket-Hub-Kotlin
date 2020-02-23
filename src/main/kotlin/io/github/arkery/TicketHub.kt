@@ -13,5 +13,4 @@ class TicketHub: JavaPlugin(), Listener {
     override fun onDisable() {
         Bukkit.getLogger().info("[TicketHub]: Stopping TicketHub")
     }
-
 }
