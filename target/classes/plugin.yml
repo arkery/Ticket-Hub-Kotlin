@@ -1,0 +1,4 @@
+name: TicketHub
+version: 1.0
+main: io.github.arkery.TicketHub
+depend: [KotlinPlugin]
